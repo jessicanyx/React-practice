@@ -1,0 +1,12 @@
+.content {
+  width: 200px;
+  text-align: center;
+  margin: 20px auto;
+}
+.colorPicker {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #fff;
+  margin: 5px;
+  cursor: pointer;
+}
